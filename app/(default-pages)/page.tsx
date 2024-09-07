@@ -13,8 +13,11 @@ import Section06 from '@/components/section-06'
 import Section07 from '@/components/section-07'
 import Faqs from '@/components/faqs'
 import Cta from '@/components/cta'
+import Script from 'next/script'
 
 export default function Home() {
+
+
   return (
     <>
       <Hero />
@@ -27,6 +30,7 @@ export default function Home() {
   
       <Faqs />
       <Cta />
+      <Script src="//code.tidio.co/lcekra8hwvljv0noe7nw4xj0v1navebu.js" async />
     </>
   )
 }
