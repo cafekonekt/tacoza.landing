@@ -33,7 +33,7 @@ export default function Section06() {
       <div className="relative max-w-7xl mx-auto">
         {/* Bg */}
         <div
-          className="absolute inset-0 rounded-tl-[100px] mb-24 md:mb-0 bg-gradient-to-b from-slate-100 pointer-events-none -z-10"
+          className="absolute inset-0 rounded-tl-[60px] md:rounded-tl-[100px] mb-24 md:mb-0 bg-gradient-to-b from-slate-100 pointer-events-none -z-10"
           aria-hidden="true"
         />
 

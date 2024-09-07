@@ -9,7 +9,7 @@ export default function Section02() {
       <div className="relative max-w-7xl mx-auto">
 
         {/* Bg */}
-        <div className="absolute inset-0 rounded-tr-[100px] mb-24 md:mb-0 bg-stone-800 pointer-events-none -z-10" aria-hidden="true" />
+        <div className="absolute inset-0 rounded-tr-[60px] md:rounded-tr-[100px] mb-24 md:mb-0 bg-stone-800 pointer-events-none -z-10" aria-hidden="true" />
 
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
           <div className="pt-12 md:py-20">

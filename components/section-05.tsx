@@ -8,7 +8,7 @@ export default function Section05() {
       <div className="relative max-w-7xl mx-auto">
         {/* Bg */}
         <div
-          className="absolute inset-0 rounded-tr-[100px] bg-gradient-to-tr from-rose-600 to-rose-500 pointer-events-none -z-10"
+          className="absolute inset-0 rounded-tr-[60px] md:rounded-tr-[100px] bg-gradient-to-tr from-rose-600 to-rose-500 pointer-events-none -z-10"
           aria-hidden="true"
         />
 

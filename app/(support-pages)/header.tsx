@@ -19,9 +19,9 @@ export default function SupportHeader() {
           <nav className="flex grow">
             {/* Desktop sign in links */}
             <ul className="flex grow justify-end flex-wrap items-center">
-              <li className="ml-3">
+              <li className="ml-2">
                 <a className="btn-sm inline-flex items-center text-slate-100 bg-slate-800 hover:bg-slate-900 shadow-sm" href="#0">
-                  Get in touch
+                  Help?
                 </a>
               </li>
             </ul>
