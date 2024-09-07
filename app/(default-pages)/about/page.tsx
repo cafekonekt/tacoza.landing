@@ -1,14 +1,19 @@
+export const metadata = {
+    title: 'About - Tacoza',
+    description: 'Empower your business with Tacoza’s all-in-one solution, built to optimize your ordering process and management.',
+  }
+
 export default function About() {
   return (
     <>
     <section className="relative">
       {/* Bg */}
       <div
-        className="absolute inset-0 rounded-bl-[100px] mb-28 md:mb-0 bg-gradient-to-tr from-rose-600 to-rose-500 pointer-events-none -z-10"
+        className="absolute inset-0 rounded-bl-[100px] mb-16 md:mb-0 bg-gradient-to-tr from-rose-600 to-rose-500 pointer-events-none -z-10"
         aria-hidden="true"
       />
 
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-6xl min-h-[55vh] md:min-h-[30vh] mx-auto px-4 sm:px-6">
         <div className="pt-36 md:pt-40 md:pb-20">
           {/* Hero content */}
           <div className="relative max-w-xl mx-auto md:max-w-none text-center md:text-left">
@@ -36,7 +41,7 @@ export default function About() {
         </div>
       </div>
     </section>
-    <div className="max-w-6xl mx-auto my-12 p-4 sm:px-6">
+    <div className="max-w-6xl mx-auto mb-12 md:mt-12 p-4 sm:px-6">
     Your text here
     </div>
     </>

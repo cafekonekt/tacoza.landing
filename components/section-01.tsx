@@ -35,8 +35,7 @@ export default function Section01() {
               </div>
               <h4 className="text-xl font-bold mb-1">Scan QR on Table</h4>
               <p className="text-slate-500">
-                Create cards that work exactly as you configured them. Make real-time decisions on charges and spendings.
-              </p>
+              QR code ordering enables customers to scan and order instantly, reducing wait times and enhancing their experience.              </p>
             </div>
 
             {/* 2nd item */}
@@ -67,10 +66,9 @@ export default function Section01() {
                   </g>
                 </svg>
               </div>
-              <h4 className="text-xl font-bold mb-1">Fast Payments</h4>
+              <h4 className="text-xl font-bold mb-1">AI powered Dashboard</h4>
               <p className="text-slate-500">
-                Create cards that work exactly as you configured them. Make real-time decisions on charges and spendings.
-              </p>
+              Our intuitive dashboard helps you stay ahead by tracking orders, managing POS, and gaining actionable insights powered by AI.</p>
             </div>
 
             {/* 3rd item */}
@@ -102,8 +100,7 @@ export default function Section01() {
               </div>
               <h4 className="text-xl font-bold mb-1">Manage and Track order</h4>
               <p className="text-slate-500">
-                Create cards that work exactly as you configured them. Make real-time decisions on charges and spendings.
-              </p>
+              Checkout and pay securely using your preferred method. Track and Manage the status of your order in real-time.               </p>
             </div>
           </div>
         </div>

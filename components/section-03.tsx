@@ -28,7 +28,7 @@ export default function Section03() {
                 {/* Button */}
                 <div className="max-w-xs mx-auto sm:max-w-none mb-8" data-aos="fade-up" data-aos-anchor="[data-aos-id-3]" data-aos-delay="300">
                   <div>
-                    <a className="btn-sm inline-flex items-center text-rose-50 bg-rose-500 hover:bg-rose-600 group shadow-sm" href="apply.html">
+                    <a className="btn-sm inline-flex items-center text-rose-50 bg-rose-500 hover:bg-rose-600 group shadow-sm" href="apply">
                     Get Started
                       <span className="tracking-normal text-white group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-2">
                         <svg className="fill-current" width="12" height="10" xmlns="http://www.w3.org/2000/svg">

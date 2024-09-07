@@ -9,9 +9,9 @@ export default function SupportHeader() {
           {/* Site branding */}
           <div className="shrink-0 mr-4">
             {/* Logo */}
-            <Link className="flex items-center" href="/" aria-label="Cruip">
+            <Link className="flex items-end" href="/" aria-label="Cruip">
               <Image src="/images/image.png" alt="tacoza" width={120} height={30} />
-              <span className="text-slate-400 font-[550] ml-4">Support Center</span>
+              <span className="text-slate-400 text-sm font-[550] ml-2">| Support Center</span>
             </Link>
           </div>
 

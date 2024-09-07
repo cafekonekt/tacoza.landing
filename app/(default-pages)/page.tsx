@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - FinTech',
-  description: 'Page description',
+  title: 'Tacoza - Restaurant Management System',
+  description: 'Empower your business with Tacoza’s all-in-one solution, built to optimize your ordering process and management.',
 }
 
 import Hero from '@/components/hero'
