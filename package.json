@@ -24,6 +24,7 @@
     "next-contentlayer": "^0.3.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "sharp": "^0.33.5",
     "swiper": "^8.4.7",
     "typescript": "^5.3.3"
   },

@@ -13,7 +13,7 @@ export default function Layout({
   children,
 }: {
   children: React.ReactNode
-}) {  
+}) {
 
   useEffect(() => {
     AOS.init({
@@ -27,7 +27,7 @@ export default function Layout({
   return (
     <>
       <Header />
-      
+
       <main className="grow">
 
         {children}

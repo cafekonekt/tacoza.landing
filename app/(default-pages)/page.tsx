@@ -1,6 +1,7 @@
 export const metadata = {
   title: 'Tacoza - Restaurant Management System',
   description: 'Empower your business with Tacoza’s all-in-one solution, built to optimize your ordering process and management.',
+  keywords: 'tacoza, restaurant management system, restaurant pos, restaurant software, restaurant ordering system, restaurant management, petpooja',
 }
 
 import Hero from '@/components/hero'
