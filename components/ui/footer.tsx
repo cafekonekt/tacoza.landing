@@ -92,7 +92,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-slate-400 hover:text-rose-500 transition duration-150 ease-in-out"
-                  href="/tnc"
+                  href="/terms"
                 >
                   Terms & Conditions
                 </a>
@@ -171,7 +171,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-slate-400 hover:text-rose-500 transition duration-150 ease-in-out"
-                  href="mailt:to/support@tacoza"
+                  href="mailto:support@tacoza"
                 >
                   Send us an email
                 </a>
